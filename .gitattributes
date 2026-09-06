@@ -1,0 +1,3 @@
+# Enforce consistent line endings
+*.sql text eol=lf
+*.md  text eol=lf
